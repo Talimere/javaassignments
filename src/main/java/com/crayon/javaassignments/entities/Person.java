@@ -2,8 +2,6 @@ package com.crayon.javaassignments.entities;
 
 public class Person {
 
-
-
         private Long id;
         private String firstName;
         private String lastName;
